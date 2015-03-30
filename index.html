@@ -48,6 +48,118 @@
       <section id="main_content">
         <h3>
 <a id="roman-martyrology" class="anchor" href="#roman-martyrology" aria-hidden="true"><span class="octicon octicon-link"></span></a>Roman Martyrology</h3>
+<SCRIPT LANGUAGE=Javascript>
+<!--
+/*
+ Java Script Calendar is a small script for web pages which displays current Day of the week, Month, Date and Year along with Holidays notification. Just like this working demo below. It will work with Netscape 2++, Microsoft 3++ and Opera 3++ web browsers.
+Java Script Calendar is free without any limitations. Copyright © Eugene Vassiltsov. But please, let me know if you will use it.
+*/
+
+ calendar = new Date();
+ day = calendar.getDay();
+ month = calendar.getMonth();
+ date = calendar.getDate();
+ year = calendar.getYear();
+ if (year < 1000)
+ year+=1900
+ cent = parseInt(year/100);
+ g = year % 19;
+ k = parseInt((cent - 17)/25);
+ i = (cent - parseInt(cent/4) - parseInt((cent - k)/3) + 19*g + 15) % 30;
+ i = i - parseInt(i/28)*(1 - parseInt(i/28)*parseInt(29/(i+1))*parseInt((21-g)/11));
+ j = (year + parseInt(year/4) + i + 2 - cent + parseInt(cent/4)) % 7;
+ l = i - j;
+ emonth = 3 + parseInt((l + 40)/44);
+ edate = l + 28 - 31*parseInt((emonth/4));
+ emonth--;
+ var dayname = new Array ("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday");
+ var monthname = 
+ new Array ("January","February","March","April","May","June","July","August","September","October","November","December" );
+ document.write("");
+ document.write(dayname[day] + ", ");
+ document.write(monthname[month] + " ");
+ if (date< 10) document.write("0" + date + ", ");
+         else document.write(date + ", ");
+ document.write(year + "    ");
+ var martyrfilename = "martyr/";
+ var monthplusone = month + 1;
+ if (monthplusone< 10) martyrfilename = martyrfilename + "0" + monthplusone;
+         else martyrfilename = martyrfilename + monthplusone;
+ if (date< 10) martyrfilename = martyrfilename + "0" + date;
+         else martyrfilename = martyrfilename + date;
+ martyrfilename = martyrfilename + ".txt"
+// document.write(martyrfilename);
+ // Easter
+ if ((month == emonth) && (date == edate)) document.write("Easter Sunday (Western)   ");
+ // January
+ // February
+ // March
+ // April
+ // May
+ // June
+ // July
+ // August
+ // October
+ // November
+ // December
+ document.write("<br />");
+//-->
+</SCRIPT> 
+
+
+<div id="myDiv">today's entry goes here</div>
+
+<script>
+function loadXMLDoc()
+{
+var xmlhttp;
+mycalendar = new Date();
+mymonth = calendar.getMonth()+1;
+date = calendar.getDate();
+ var martyrfilename = "martyr/";
+ var monthplusone = month + 1;
+ if (monthplusone< 10) martyrfilename = martyrfilename + "0" + monthplusone;
+         else martyrfilename = martyrfilename + monthplusone;
+ if (date< 10) martyrfilename = martyrfilename + "0" + date;
+         else martyrfilename = martyrfilename + date;
+ martyrfilename = martyrfilename + ".txt"
+if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {// code for IE6, IE5
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.onreadystatechange=function()
+  {
+  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+    document.getElementById("myDiv").innerHTML=xmlhttp.responseText;
+    }
+  }
+xmlhttp.open("GET",martyrfilename,true);
+xmlhttp.send();
+}
+window.onload=loadXMLDoc();
+</script>
+
+
+
+<p></p>
+
+
+<p>
+And elsewhere many other holy martyrs, confessors and holy virgins.
+</p>
+<p>
+Thanks be to God.
+</p>
+<p>
+Precious in the sight of the Lord</p>
+<p>is the death of His Saints.</p>
+
+<h3>About the project</h3>
 
 <p>Some versions of the Divine Office involved reciting a list of the saints to be commemorated.  The one I am familiar with asks for tomorrows saints to be remembered at Prime, the first hour of the day, roughly 6am.</p>
 
@@ -55,7 +167,7 @@
 
 <p>There are other Saint of the Day webpages which are awesome - especially <a href="http://saints.sqpn.com/today-on-the-calendar/">http://saints.sqpn.com/today-on-the-calendar/</a> - but not so easy to read out as the Martyrology books which are specially made for that purpose.</p>
 
-<p>I am endeavouring to keep ahead of the current day as we go through the year.  I'm using OCR on <a href="https://archive.org/details/romanmartyrology00cathuoft">https://archive.org/details/romanmartyrology00cathuoft</a> which I have also set up as <a href="http://www.lulu.com/shop/benedict-xiv/roman-martyrology/paperback/product-21821878.html">a paperback on Lulu:</a>.</p>
+<p>I am endeavouring to keep ahead of the current day as we go through the year.  I'm using OCR on <a href="https://archive.org/details/romanmartyrology00cathuoft">https://archive.org/details/romanmartyrology00cathuoft</a> which I have also set up as <a href="http://www.lulu.com/shop/benedict-xiv/roman-martyrology/paperback/product-21821878.html">a paperback on Lulu</a>.</p>
       </section>
 
       <footer>
