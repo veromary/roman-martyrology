@@ -1,53 +1,11 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="viewport" content="width=640">
+---
+layout: default
+title: Roman Martyrology
+---
 
-    <link rel="stylesheet" href="stylesheets/core.css" media="screen">
-    <link rel="stylesheet" href="stylesheets/mobile.css" media="handheld, only screen and (max-device-width:640px)">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+<h3>Today on the calendar:</h3>
 
-    <script type="text/javascript" src="javascripts/modernizr.js"></script>
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script type="text/javascript" src="javascripts/headsmart.min.js"></script>
-    <script type="text/javascript">
-      $(document).ready(function () {
-        $('#main_content').headsmart()
-      })
-    </script>
-    <title>Roman Martyrology by veromary</title>
-  </head>
-
-  <body>
-    <a id="forkme_banner" href="https://github.com/veromary/roman-martyrology">View on GitHub</a>
-    <div class="shell">
-
-      <header>
-        <span class="ribbon-outer">
-          <span class="ribbon-inner">
-            <h1>Roman Martyrology</h1>
-            <h2>saint of the day, vintage divine office style</h2>
-          </span>
-          <span class="left-tail"></span>
-          <span class="right-tail"></span>
-        </span>
-      </header>
-
-      <section id="downloads">
-        <span class="inner">
-          <a href="https://github.com/veromary/roman-martyrology/zipball/master" class="zip"><em>download</em> .ZIP</a><a href="https://github.com/veromary/roman-martyrology/tarball/master" class="tgz"><em>download</em> .TGZ</a>
-        </span>
-      </section>
-
-
-      <span class="banner-fix"></span>
-
-
-      <section id="main_content">
-        <h3>
-<a id="roman-martyrology" class="anchor" href="#roman-martyrology" aria-hidden="true"><span class="octicon octicon-link"></span></a>Roman Martyrology</h3>
+<p>
 <SCRIPT LANGUAGE=Javascript>
 <!--
 /*
@@ -105,9 +63,9 @@ Java Script Calendar is free without any limitations. Copyright © Eugene Vassil
  document.write("<br />");
 //-->
 </SCRIPT> 
+</p>
 
-
-<div id="myDiv">today's entry goes here</div>
+<div id="myDiv" style="font-size: 1.2rem; line-height: 1.8">today's entry goes here</div>
 
 <script>
 function loadXMLDoc()
@@ -159,41 +117,46 @@ Thanks be to God.
 Precious in the sight of the Lord</p>
 <p>is the death of His Saints.</p>
 
-<h3>About the project</h3>
+<ul>
+<li>January
+{% for martyrs in site.martyrs %}
+{% if martyrs.month == "January" %}
+<a href="{{ martyrs.url }}">{{ martyrs.day }}</a> | {% endif %}
+{% endfor %}</li>
+<li>February
+{% for martyrs in site.martyrs %}
+{% if martyrs.month == "February" %}
+<a href="{{ martyrs.url }}">{{ martyrs.day }}</a> | {% endif %}
+{% endfor %}</li>
+<li>March
+{% for martyrs in site.martyrs %}
+{% if martyrs.month == "March" %}
+<a href="{{ martyrs.url }}">{{ martyrs.day }}</a> | {% endif %}
+{% endfor %}</li>
+<li>April
+{% for martyrs in site.martyrs %}
+{% if martyrs.month == "April" %}
+<a href="{{ martyrs.url }}">{{ martyrs.day }}</a> | {% endif %}
+{% endfor %}</li>
+<li>May
+{% for martyrs in site.martyrs %}
+{% if martyrs.month == "May" %}
+<a href="{{ martyrs.url }}">{{ martyrs.day }}</a> | {% endif %}
+{% endfor %}</li>
+<li>June
+{% for martyrs in site.martyrs %}
+{% if martyrs.month == "June" %}
+<a href="{{ martyrs.url }}">{{ martyrs.day }}</a> | {% endif %}
+{% endfor %}</li>
+<li>July
+{% for martyrs in site.martyrs %}
+{% if martyrs.month == "July" %}
+<a href="{{ martyrs.url }}">{{ martyrs.day }}</a> | {% endif %}
+{% endfor %}</li>
+<li>August
+{% for martyrs in site.martyrs %}
+{% if martyrs.month == "August" %}
+<a href="{{ martyrs.url }}">{{ martyrs.day }}</a> | {% endif %}
+{% endfor %}</li>
+</ul>
 
-<p>Some versions of the Divine Office involved reciting a list of the saints to be commemorated.  The one I am familiar with asks for tomorrows saints to be remembered at Prime, the first hour of the day, roughly 6am.</p>
-
-<p>There are scanned in versions of the Roman Martyrology in the Internet Archive, but I thought it would be handy to have a javascript version that pulled in the listing for the day's saint automatically.</p>
-
-<p>There are other Saint of the Day webpages which are awesome - especially <a href="http://saints.sqpn.com/today-on-the-calendar/">http://saints.sqpn.com/today-on-the-calendar/</a> - but not so easy to read out as the Martyrology books which are specially made for that purpose.</p>
-
-<p>I am endeavouring to keep ahead of the current day as we go through the year.  I'm using OCR on <a href="https://archive.org/details/romanmartyrology00cathuoft">https://archive.org/details/romanmartyrology00cathuoft</a> which I have also set up as <a href="http://www.lulu.com/shop/benedict-xiv/roman-martyrology/paperback/product-21821878.html">a paperback on Lulu</a>.</p>
-      </section>
-
-      <footer>
-        <span class="ribbon-outer">
-          <span class="ribbon-inner">
-            <p>this project by <a href="https://github.com/veromary">veromary</a> can be found on <a href="https://github.com/veromary/roman-martyrology">GitHub</a></p>
-          </span>
-          <span class="left-tail"></span>
-          <span class="right-tail"></span>
-        </span>
-        <p>Generated with <a href="https://pages.github.com">GitHub Pages</a> using Merlot</p>
-        <span class="octocat"></span>
-      </footer>
-
-    </div>
-
-              <script type="text/javascript">
-            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-          </script>
-          <script type="text/javascript">
-            try {
-              var pageTracker = _gat._getTracker("UA-43339125-1");
-            pageTracker._trackPageview();
-            } catch(err) {}
-          </script>
-
-  </body>
-</html>
