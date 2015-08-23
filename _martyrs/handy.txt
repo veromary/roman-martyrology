@@ -1,0 +1,9 @@
+To delete all the content:
+
+sed -i '7,$d' 01-08.md 
+
+For adjusting the headers
+
+for d in `seq -w 01 07` ; do cat header > 01-$d.md; sed -i "s/\$i/$d/" 01-$d.md; sed -i "s/August/January/" 01-$d.md ; done
+
+
