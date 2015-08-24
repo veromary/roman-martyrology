@@ -66,14 +66,15 @@ var xmlhttp;
 mycalendar = new Date();
 mymonth = calendar.getMonth()+1;
 date = calendar.getDate();
- var martyrfilebase = "http://raw.githubusercontent.com/veromary/roman-martyrology/gh-pages/_includes/martyr/";
- var martyrfilename = "";
+// var martyrfilebase = "http://raw.githubusercontent.com/veromary/roman-martyrology/gh-pages/_includes/martyr/";
+ var martyrfilename = "textonly/";
  var monthplusone = month + 1;
- if (monthplusone< 10) martyrfilename = martyrfilename + "0" + monthplusone;
-         else martyrfilename = martyrfilename + monthplusone;
+ if (monthplusone< 10) martyrfilename = martyrfilename + "0" + monthplusone + "-";
+         else martyrfilename = martyrfilename + monthplusone + "-";
  if (date< 10) martyrfilename = martyrfilename + "0" + date;
          else martyrfilename = martyrfilename + date;
- martyrfilename = martyrfilename + ".txt"
+ martyrfilename = martyrfilename + ".html";
+//var mfiletoget = martyrfilebase + martyrfilename;
 if (window.XMLHttpRequest)
   {// code for IE7+, Firefox, Chrome, Opera, Safari
   xmlhttp=new XMLHttpRequest();
@@ -88,13 +89,13 @@ xmlhttp.onreadystatechange=function()
     {
     document.getElementById("myDiv").innerHTML=xmlhttp.responseText;
     }
+  else{ console.log(xmlhttp.statusText); }
   }
-var mfiletoget = martyrfilebase.martyrfilename
-xmlhttp.open("GET",mfiletoget,true);
+//document.write("<a href=\"http://github.com/veromary/roman-martyrology/edit/gh-pages/_includes/martyr/" + martyrfilename + "\"> help fix </a>");
+xmlhttp.open("GET",martyrfilename,true);
 xmlhttp.send();
 }
 window.onload=loadXMLDoc();
-document.write("<p><a href=\"http://github.com/veromary/roman-martyrology/edit/gh-pages/_includes/martyr/".martyrfilename."\>help fix mistakes</a>");
 </script>
 
 
