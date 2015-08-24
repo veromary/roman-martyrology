@@ -5,7 +5,7 @@ markdown: redcarpet
 highlighter: pygments
 #url: http://localhost:4000
 url: http://www.brandt.id.au/roman-martyrology
-baseurl: roman-martyrology/
+#baseurl: roman-martyrology/
 
 collections:
   martyrs:
