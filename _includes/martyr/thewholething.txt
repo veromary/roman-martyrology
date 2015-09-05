@@ -2693,7 +2693,7 @@ commemorated on the 8th of September, when his
 body was conveyed to Rome.&mdash;Also, the matryrdom 
 of the Saints Archelaus, Cyril, and Photius.&mdash;In 
 Chersonesus, the passion of the saintly bishops Basil, 
-Eugenius, Agathodorus, Elpidius, JEtherius, Capito, 
+Eugenius, Agathodorus, Elpidius, AEtherius, Capito, 
 Ephrem, Nestor, and Arcadius. 
 
 
@@ -6584,7 +6584,7 @@ nicia, in the time of the governor Adrian, St. Leon-
 tius, a soldier, who, through bitter torments, at- 
 tained to the crown of martyrdom, together with 
 the tribune Hypatius and Theodulus, whom he had 
-converted to Christ. The same day, St. JEtherius, 
+converted to Christ. The same day, St. AEtherius, 
 martyr, in the persecution of Diocletian. After en- 
 during fire and other torments, he was put to death 
 with the sword.&mdash;At Alexandria, the passion of St. 
@@ -7800,7 +7800,7 @@ the rack for the faith of Christ, horribly lacerated
 with iron hooks, confined for a long time in a filthy 
 dungeon, and finally put to the sword.&mdash;At Doros- 
 torum, in Mysia, in the time of Julian the Apostate 
-and the governor Capitolinus, St. JEmilian, martyr, 
+and the governor Capitolinus, St. AEmilian, martyr, 
 who was cast into a furnace, and thus received the 
 palm of martyrdom.&mdash;At Utrecht, St. Frederick, 
 bishop and martyr.&mdash;In Spanish Galicia, St. Ma- 
@@ -7872,7 +7872,7 @@ the Great and St. Gregory of Nyssa.
 
 Cfte Ctoemieti) Dap of 3[ulp, 
 
-rjIHE festival of St. Jerome JEmiliani, confessor, 
+rjIHE festival of St. Jerome AEmiliani, confessor, 
 -- founder of the Congergation of Somascha. Gain- 
 ing renown for many miracles during his life and 
 after his death, he was inscribed among the beatified 
@@ -7982,7 +7982,7 @@ rfIHE birthday of the holy bishop Apollinaris, who
 was consecrated at Rome by the apostle Peter, 
 and sent to Ravenna, where he endured for the faith 
 of Christ many different tribulations. He after- 
-wards preached the Gospel in JEmilia, where he con- 
+wards preached the Gospel in AEmilia, where he con- 
 verted many from the worship of idols. Fianlly, re- 
 turning to Ravenna, he terminated his confession of 
 Christ by a glorious martyrdom under the Caesar 
@@ -8160,7 +8160,7 @@ tyrs George, deacon, Felix, Aurelius, Natalia, and
 Liliosa.&mdash;At Ephesus, the birthday of the seven holy 
 sleepers, Maximian, Malchus, Martinian, Denis, 
 John, Serapion, and Constantine.&mdash;At Auxerre, the 
-demise of blessed JEtherius, bishop and confessor. 
+demise of blessed AEtherius, bishop and confessor. 
 At Constantinople, blessed Anthusa, a virgin. Un- 
 der Constantine Copronymus, after being scourged 
 and banished, she rested in the Lord. 
@@ -11064,7 +11064,7 @@ Candidus, martyr. The same day the holy mar-
 tyrs Denis, Faustus, Cains, Peter, Paul, and four 
 others, who suffered much under Decius; and under 
 Valerian, being a long time subjected to torments by 
-the governor JEmilian, merited the palm of martyr- 
+the governor AEmilian, merited the palm of martyr- 
 dom. Among the ancient Saxons (in Westphalia), 
 two holy martyrs of the name of Ewaldus, who be- 
 ing priests and preaching Christ in that country, 
@@ -11412,7 +11412,7 @@ St. Germanus, bishop and martyr.&mdash;At Uzes, in Nar-
 bonese Gaul, St. Firminus, bishop and confessor.&mdash;In 
 Ireland, St. Kenny, abbot.&mdash;At Lier, in Belgium, the 
 departure from this life of St. Gummarus, confessor. 
-At Kennes, St. JEmilian, confessor.&mdash;At Tarsus, in 
+At Rennes, St. AEmilian, confessor.&mdash;At Tarsus, in 
 Cilicia, the holy women Zenaides and Philonilla, 
 sisters, who were relatives of the blessed apostle 
 Paul, and his disciples in the faith.&mdash;At Verona, St. 
@@ -11527,7 +11527,7 @@ Fortunatus, bishop, who, as is mentioned by blessed
 Gregory, was endowed with an extraordinary gift for 
 casting out unclean spirits.&mdash;At Wurtzburg, St. 
 Burchard, first bishop of that city.&mdash;At Bruges, in 
-Belgium, St. Donatian, bishop of Kheims.&mdash;At 
+Belgium, St. Donatian, bishop of Rheims.&mdash;At 
 Treves, St. Rusticus, bishop. The same day, the de- 
 parture out of this world of St. Dominic Loricatus. 
 In Italy, St. Bernard, confessor. 
@@ -11665,7 +11665,7 @@ bishop, one of the celebrated troop of martyrs who
 suffered gloriously under Macrinus.&mdash;In the diocese 
 of Beauvais, St. Justus, martyr, who, being but a 
 boy, was put to death in the persecution of Diocle- 
-tian, under the governor Kictiovarus.&mdash;At Neocae- 
+tian, under the governor Rictiovarus.&mdash;At Neocae- 
 sarea, in Pontus, the holy and learned bishop&mdash;Atheno- 
 dorus, brother of St. Gregory Thaumaturgus, who 
 underwent martyrdom in the persecution of Aure- 
@@ -11761,7 +11761,7 @@ virgins Martha and Saula, with many others.&mdash;At
 Minden, the birthday of St. Felician, bishop and 
 martyr.&mdash;At Paris, the holy martyrs, George, deacon, 
 and Aurelius.&mdash;In Portugal, St. Irene, virgin and 
-martyr.&mdash;In the diocese of Kheims, St. Sindulphus, 
+martyr.&mdash;In the diocese of Rheims, St. Sindulphus, 
 confessor. 
 
 
@@ -11788,7 +11788,7 @@ who, after suffering various torments, were sub-
 merged in the sea.&mdash;At Maronia, near Antioch, in 
 Syria, St. Malchus, monk.&mdash;At Lyons, St. Viator, 
 deacon of blessed Justus, bishop of that city.&mdash;At 
-Laon, St. Cilinia, mother of blessed Kemigius, bishop 
+Laon, St. Cilinia, mother of blessed Remigius, bishop 
 of Eheims. 
 
 
@@ -11930,7 +11930,7 @@ other martyrs. Among them are named four sol-
 diers of Christ Theodosius, Lucius, Mark and Peter. 
 At Soissons, in France, in the persecution of Dio- 
 cletian, the holy martyrs Crispin and Crispinian, 
-noble Komans. Under the governor Rictiovarus, 
+noble Romans. Under the governor Rictiovarus, 
 after horrible torments, they were put to the sword, 
 and thus obtained the crown of martyrdom. Their 
 bodies were afterwards conveyed to Rome, and en- 
@@ -11964,7 +11964,7 @@ At Javols, St. Hilary, bishop.
 
 Cfte Ctoemg'Stetl) Dap of SDctober, 
 
-AT Kome, in the time of the emperor Adrian, St. 
+AT Rome, in the time of the emperor Adrian, St. 
 " Evaristus, pope and martyr, who enriched the 
 Church of God with his blood.&mdash;In Africa, the holy 
 martyrs Rogatian, priest, and Felicissimus, who 
@@ -12028,7 +12028,7 @@ Simon preached the Gospel in Egypt, Thaddeus in
 Mesopotamia. Afterwards, entering Persia together, 
 they converted to Christ a numberless multitude of 
 the inhabitants, and then underwent martyrdom. 
-At Kome, in the reign of Claudius, St. Cyrilla, vir- 
+At Rome, in the reign of Claudius, St. Cyrilla, vir- 
 gin, daughter of St. Tryphonia, who was pierced 
 through the throat for the faith of Christ.&mdash;In the 
 same city, the holy martyrs Anastasia the Elder, 
@@ -12531,7 +12531,7 @@ NOVEMBER. 347
 
 of souls. Being renowned for miracles, he was in- 
 scribed on the catalogue of saints by Clement XI. 
-The birthday of the holy martyrs Tryphon and Ke- 
+The birthday of the holy martyrs Tryphon and Re- 
 spicius, and the virgin Nympha.&mdash;In the diocese of 
 Agde, the holy martyrs Tiberius, Modestus, and 
 Florentia, who, after being subjected to various tor- 
@@ -12805,7 +12805,7 @@ tyrs Acisclus, and Victoria, his sister, who were
 most cruelly tortured by order of the governor Dion, 
 and thus merited to be crowned by our Lord for 
 their glorious sufferings.&mdash;At Alexandria, St. Denis, 
-bishop, a man of the most profound learning. Ke- 
+bishop, a man of the most profound learning. Re- 
 
 
 
@@ -12848,7 +12848,7 @@ memoration of that event was transferred to this
 day.&mdash;At Antioch, the birthday of St. Romanus, 
 martyr, in the time of the emperor Galerius. When 
 the prefect Asclepiades broke into the churches and 
-strove to destroy them completely, Komanus ex- 
+strove to destroy them completely, Romanus ex- 
 horted the Christians to resist him, and after being 
 subjected to dire torments and the cutting out of 
 his tongue (without which, however, he spoke the 
@@ -13016,7 +13016,7 @@ the church on the feast of Diana, they were arrested
 whilst the other Christians fled, and by the command 
 of the governor Artocles, were scourged, let down 
 into a pit up to their waist, and overwhelmed with 
-stones.&mdash;Also, at Kome, St. Maurus, martyr, who, 
+stones.&mdash;Also, at Rome, St. Maurus, martyr, who, 
 coming from Africa to visit the tombs of the Apostles, 
 
 
@@ -13077,7 +13077,7 @@ birthday of St. Chrysogonus, martyr. After a long
 imprisonment in chains for the constant confession 
 of Christ, he was by order of Diocletian taken to 
 Aquileia, where he terminated his martyrdom by be- 
-ing beheaded and thrown into the sea.&mdash;At Korne, St. 
+ing beheaded and thrown into the sea.&mdash;At Rome, St. 
 Crescentian, martyr, whose name is mentioned in the 
 Acts of the blessed pope Marcellus.&mdash;At Amelia, in 
 Umbria, during the persecution of Diocletian, ST. 
@@ -13168,7 +13168,7 @@ laws concerning ecclesiastical discipline.&mdash;At Autun,
 NOVEMBER. 365 
 
 St. Amator, bishop.&mdash;At Constance, St. Conrad, 
-bishop.&mdash;In the diocese of Kheims, the birthday of 
+bishop.&mdash;In the diocese of Rheims, the birthday of 
 St. Basolus, confessor.&mdash;At Adrianople, in Paphla- 
 gonia, St. Stylian, anchoret, renowned for miracles. 
 In Armenia, St. Nicon, monk.&mdash;At Rome, St. Leon- 
@@ -13256,7 +13256,7 @@ Andrew and their companions, numbering three
 hundred and thirty-nine monks, who were subjected 
 to various torments for the worship of holy images, 
 and confirmed the Catholic truth with the shedding 
-of their blood.&mdash;At Kome, blessed pope Gregory III., 
+of their blood.&mdash;At Rome, blessed pope Gregory III., 
 who departed for heaven with a reputation for sanc- 
 tity and miracles.&mdash;At Naples, the departure from 
 this world of St. James of La Marca, confessor, of 
@@ -13275,7 +13275,7 @@ XIII.
 
 Cfie Ctoentpmintft Dap of Ji2otoem6er* 
 
-FT1HE vigil of St. Andrew, apostle.&mdash;At Kome, on 
+FT1HE vigil of St. Andrew, apostle.&mdash;At Rome, on 
 -* the Salarian road, the birthday of the holy mar- 
 tyr Saturninus, an aged man, and the deacon Sis- 
 inius, in the time of the emperor Maximian. After 
@@ -13645,7 +13645,7 @@ Peter, and first bishop of that city.&mdash;In Cyprus, the
 holy bishop Sophronius, who was a devoted protector 
 of orphans and widows, and a friend to the poor and 
 the oppressed.&mdash;In the monastery of Luxeuil, St. 
-Komaricus, abbot, who left the highest station at the 
+Romaricus, abbot, who left the highest station at the 
 court of king Theodobert, renounced the world, and 
 surpassed others in the observance of monastic dis- 
 cipline.&mdash;At Constantinople, St. Patapius, solitary, 
@@ -13657,7 +13657,7 @@ ordination of St. Zeno, bishop.
 Cfte Jl2im|) Dap of December* 
 
 AT Gray, in Burgundy, St. Peter Fourier, Canon 
-^ Kegular of Our Saviour, and founder of the Can- 
+^ Regular of Our Saviour, and founder of the Can- 
 onesses Regular of Our Lady for the education of 
 girls. Because of his brilliant virtues and miracles 
 Leo XIII. placed him in the catalogue of Saints. 
@@ -13696,7 +13696,7 @@ who has related her virtues and miracles.
 
 Cfte Cent!) Dag of Decem&er, 
 
-A T Kome, pope St. Melchiades, who, having suffered 
+A T Rome, pope St. Melchiades, who, having suffered 
 " much in the persecution of Maximian, rested in 
 the Lord when peace was given to the Church. The 
 same day, Saints Carpophorus, priest, and Abundius, 
@@ -13945,7 +13945,7 @@ ST. EUSEBIUS, bishop of Vercelli and martyr,
 mentioned on the 1st of August, and also on the 
 15th of this month. The young men, Ananias, Azar- 
 ias and Misael, whose bodies were buried in a cavern 
-at Babylon.&mdash;At Kavenna, the holy martyrs Valen- 
+at Babylon.&mdash;At Ravenna, the holy martyrs Valen- 
 tine, military officer, Concordius, his son, Navalis, 
 and Agricola, who suffered for Christ in the 
 persecution of Maximian.&mdash;At Mola-di-Gaeta, in 
@@ -13994,7 +13994,7 @@ The same day, the translation of St. Ignatius, bishop
 
 and martyr, who, the third after the blessed apostle 
 Peter, governed the Church of Antioch. His body 
-was conveyed from Kome, where he had suffered un- 
+was conveyed from Rome, where he had suffered un- 
 der Trajan, to Antioch, and deposited in the church 
 cemetery beyond the gate of Daphnis. St. John 
 Chrysostom, on that solemn occasion, delivered a 
@@ -14144,7 +14144,7 @@ Severin, bishop and confessor.
 
 Cfie Ctoemg'0eccmD Dap of December. 
 
-A T Kome, between the two bay -trees on the Lavican 
+A T Rome, between the two bay -trees on the Lavican 
 road, the birthday of thirty holy martyrs, who 
 were ajl on one day crownd with martyrdom, in the 
 persecution of Diocletian.&mdash;In the same city, St. 
@@ -14245,7 +14245,7 @@ priest and confessor, celebrated for his learning, his
 zeal in propagating the faith, and for his virtues and 
 miracles. His feast is kept on the 20th of October. 
 
-At Kome, the birthday of the holy virgin Tharsilla, 
+At Rome, the birthday of the holy virgin Tharsilla, 
 aunt of pope St. Gregory, who writes of her that at 
 the hour of her death she saw Jesus coming to her. 
 
@@ -14296,7 +14296,7 @@ of which she ended her martyrdom in the island of
 Palmarola, whither she had been conveyed with two 
 hundred men and seventy women, who have made 
 martyrdom a glorious thing by the various kinds of 
-death they so courageously endured.&mdash;At Kome, in 
+death they so courageously endured.&mdash;At Rome, in 
 the cemetery of Apronian, St. Eugenia, virgin.&mdash;In 
 the time of the emperor Gallienus, after working 
 many miracles and gathering to Christ troops of 
@@ -14346,7 +14346,7 @@ struct with the sword, and thus obtained the
 
 398 DECEMBER. 
 
-triumph of martyrs.&mdash;Also, at Kome, on the Appiaii 
+triumph of martyrs.&mdash;Also, at Rome, on the Appiaii 
 road, the decease of pope St. Denis, who sustained 
 many labors for the Church, and was renowned for 
 his doctrinal writings.&mdash;In the same city, St. Zosir 
@@ -14423,7 +14423,7 @@ the same Pontiff, is kept on the 29th of January,
 when his sacred body was translated from Lyons 
 to Annecy. Pius IX. confirmed a decree of the 
 Sacred Congregation of Rites, declaring him Doctor 
-of the universal Church.&mdash;At Kome, St. Domnion, 
+of the universal Church.&mdash;At Rome, St. Domnion, 
 priest.&mdash;In Egypt, St. Theodore, monk, disciple of 
 St. Pachomius.&mdash;In the monastery of Lerins, St. An- 
 thony, a monk renowned for miracles. 

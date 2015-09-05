@@ -1,0 +1,5 @@
+
+for d in `seq -w 01 07` ; do cat header > 01-$d.md; done
+
+for i in `seq -w 11 20` ; do sed -i "s/mmdd/09$i/" 09-$i.md ; done
+
