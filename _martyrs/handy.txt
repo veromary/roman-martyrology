@@ -1,3 +1,6 @@
+
+for i in `seq -w 21 30`; do sed -i "6s;^;txtdoc: 09$i.txt\n;" 09-$i.md; done
+
 To delete all the content:
 
 sed -i '7,$d' 01-08.md 
