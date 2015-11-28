@@ -175,6 +175,11 @@ Virgin and St. John the Baptist are exceptions to this rule.
 {% if martyrs.month == "November" %}
 <a href="{{ site.url }}{{ martyrs.url }}">{{ martyrs.day }}</a> | {% endif %}
 {% endfor %}</li>
+<li>December
+{% for martyrs in site.martyrs %}
+{% if martyrs.month == "December" %}
+<a href="{{ site.url }}{{ martyrs.url }}">{{ martyrs.day }}</a> | {% endif %}
+{% endfor %}</li>
 </ul>
 
 <p><a href="http://saints.sqpn.com/today-on-the-calendar/">More saints of the day from SQPN</a></p>
