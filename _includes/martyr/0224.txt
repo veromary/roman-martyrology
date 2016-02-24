@@ -1,3 +1,8 @@
+<p>
+(In leap-year, the 24th of February is announced
+in this manner: “The twenty-fourth day of February.&mdash;The vigil of the apostle St. Matthias.&mdash;Also,
+the commemoration of many holy martyrs, confessors and virgins.”)</p>
+<p>
 IN Judea, the birthday of the Apostle St. Matthias,
 who was chosen by lot by the apostles after the
 Ascension of our Lord in the place of the traitor
@@ -13,4 +18,4 @@ England, St. Ethelbert, king of Kent, converted to
 the faith of Christ by St. Augustine, bishop of the
 English.&mdash;At Jerusalem, the first finding of the head
 of our Lord’s Precursor.
-
+</p>
