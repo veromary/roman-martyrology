@@ -4,7 +4,8 @@ title: About
 permalink: about/
 ---
 
-#About
+About
+=====
 
 <p>Some versions of the Divine Office involved reciting a list of the saints to be commemorated.  The one I am familiar with asks for tomorrows saints to be remembered at Prime, the first hour of the day, roughly 6am.</p>
 

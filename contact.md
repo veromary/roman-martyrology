@@ -4,7 +4,8 @@ title: Contact
 permalink: contact/
 ---
 
-#Contact
+Contact
+=======
 
 veronica (at) brandt.id.au
 
