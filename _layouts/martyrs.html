@@ -15,3 +15,40 @@ layout: default
 {{ content }}
 {% endif %}
 
+
+     {% if page.collection %}
+        {% assign collection = site[page.collection] %}
+        {% assign prev = collection | last %}
+        {% assign next = collection | first %}
+            {% for item in collection %}
+               {% if item.title == page.title %}
+                 {% unless forloop.first %}
+                   {% assign prev = iterator %}
+                 {% endunless %}
+
+                 {% unless forloop.last %}
+                      {% assign next = collection[forloop.index] %}
+                 {% endunless %}
+               {% endif %}
+
+                    {% assign iterator = item %}
+            {% endfor %}
+     {% endif %}
+
+<div class="pagination clearfix mb1 mt4">
+  <div class="left">
+    {% if prev %}
+       <a class="pagination-item" href="{{ prev.url }}">Previous: {{ prev.title }}</a>
+    {% else %}
+      <span class="pagination-item disabled">Previous</span>
+    {% endif %}
+  </div>
+  <div class="right">
+    {% if next %}
+      <a class="pagination-item" href="{{ next.url }}">Next: {{ next.title }}</a>
+    {% else %}
+      <span class="pagination-item disabled">Next</span>
+    {% endif %}
+  </div>
+</div>
+
