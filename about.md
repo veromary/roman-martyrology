@@ -15,4 +15,17 @@ About
 
 <p>I am endeavouring to keep ahead of the current day as we go through the year.  I'm using OCR on <a href="https://archive.org/details/romanmartyrology00cathuoft">https://archive.org/details/romanmartyrology00cathuoft</a> which I have also set up as <a href="http://www.lulu.com/shop/benedict-xiv/roman-martyrology/paperback/product-21821878.html">a paperback on Lulu</a>.</p>
 
+<h2>Embeddable widget</h2>
+
+<p>Laura Gibbs of <a href="http://bestlatin.blogspot.com">Best Latin</a> commissioned a handy tool called <a href="http://rotatecontent.com">Rotate Content</a>.  I've used it to make this widget:</p>
+
+<div style="outline: 1px dotted black; width: 30em; max-width: 90%; padding: 0 2% 0 2%; margin-left: auto ; margin-right: auto ; ">
+<script type="text/javascript" src="{{ site.url }}/js/rotate.js"></script>
+</div>
+
+If you would like to embed this script into your webpage:
+
+{% highlight html %}
+<script type="text/javascript" src="http://www.brandt.id.au/roman-martyrology/js/rotate.js"></script>
+{% endhighlight %}
 
