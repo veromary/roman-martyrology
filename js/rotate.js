@@ -863,7 +863,7 @@ entryDate[280] = " 10/07/" + year
 entryContent[280] = " <h3>7 October</h3> <p> THE feast of the Most Holy Rosary of the Blessed Virgin Mary, and the commemoration of Our Lady of Victory, which the sovereign Pontiff, blessed Pius V., on account of the great naval victory gained by the Christians on this day, ordered to be kept an <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/10-07.html\">&hellip; read more</a></p>"
 
 entryDate[281] = " 10/08/" + year
-entryContent[281] = " <h3>8 October</h3> <p> ST Bridget, widow, who, after visiting many holy places by the inspiration of the Holy Spirit, died at Rome on the 23d of July. Her body was taken to Sweden on the 7th of this month. The same day, the birthday of the blessed Simeon, an aged man, who, <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/10-08.html\">&hellip; read more</a></p>"
+entryContent[281] = " <h3>8 October</h3> <p> ST Bridget, widow, who, after visiting many holy places by the inspiration of the Holy Spirit, died at Rome on the 23d of July. Her body was taken to Sweden on the 7th of this month.&mdash;The same day, the birthday of the blessed Simeon, an aged man, who, <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/10-08.html\">&hellip; read more</a></p>"
 
 entryDate[282] = " 10/09/" + year
 entryContent[282] = " <h3>9 October</h3> <p> AT Paris, the birthday of the holy martyrs Denis the Areopagite, bishop, Rusticus, priest, and Eleutherius, deacon. Denis was baptized by the apostle St. Paul, and consecrated first bishop of Athens. Then going to Rome, he was sent to Gaul by the bles <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/10-09.html\">&hellip; read more</a></p>"
@@ -887,7 +887,7 @@ entryDate[288] = " 10/15/" + year
 entryContent[288] = " <h3>15 October</h3> <p> AT Avila, in Spain, St. Theresa, virgin, mother and mistress of the Carmelite Brothers and Sisters of the Strict Observance.&mdash;At Rome, on the Aurelian road, St. Fortunatus, martyr.&mdash;At Cologne, the birthday of three hundred holy martyrs, who <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/10-15.html\">&hellip; read more</a></p>"
 
 entryDate[289] = " 10/16/" + year
-entryContent[289] = " <h3>16 October</h3> <p> IN Africa, two hundred and seventy holy martyrs crowned together.&mdash;In the same country, the Saints Martinian and Saturnian with their two brothers.&mdash;In the reign of the Arian king Genseric, while the persecution of the Vandals was raging, th <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/10-16.html\">&hellip; read more</a></p>"
+entryContent[289] = " <h3>16 October</h3> <p> IN Africa, two hundred and seventy holy martyrs crowned together.&mdash;In the same country, the Saints Martinian and Saturnian with their two brothers. In the reign of the Arian king Genseric, while the persecution of the Vandals was raging, th <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/10-16.html\">&hellip; read more</a></p>"
 
 entryDate[290] = " 10/17/" + year
 entryContent[290] = " <h3>17 October</h3> <p> THE feast of St. Hedwiges, widow, duchess of Poland, who went to her rest in the Lord on the 15th of this month.&mdash;At Antioch, the birthday of St. Heron, disciple of blessed Ignatius. Being made bishop after him, he religiously followed his master's <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/10-17.html\">&hellip; read more</a></p>"
