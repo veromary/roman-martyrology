@@ -1,0 +1,31 @@
+#!/bin/bash
+
+cat headrotate > rotate.html
+
+for i in *.txt; 
+  do
+    month=${i:0:2};
+    case $month in
+       "01") monthname="January";;
+       "02") monthname="February";;
+       "03") monthname="March";;
+       "04") monthname="April";;
+       "05") monthname="May";;
+       "06") monthname="June";;
+       "07") monthname="July";;
+       "08") monthname="August";;
+       "09") monthname="September";;
+       "10") monthname="October";;
+       "11") monthname="November";;
+       "12") monthname="December";;
+       *) echo "Bad month";;
+    esac
+    day=$(echo ${i:2:2} | sed 's/0*//');
+    echo "<tr><td style=\"vertical-align: top; \">${i:0:2}/${i:2:2}/year</td><td style=\"vertical-align: top; width: 600px;\">" >> rotate.html; 
+     echo "<h3>$day $monthname</h3> <p>" >> rotate.html;
+     head -c 256 $i >> rotate.html; 
+     echo " <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/${i:0:2}-${i:2:2}.html\">&hellip; read more</a></p></td></tr>" >> rotate.html ; 
+  done
+
+echo "</table></body></html>" >> rotate.html
+
