@@ -38,14 +38,14 @@ layout: default
 <div class="pagination clearfix mb1 mt4">
   <div class="left">
     {% if prev %}
-       <a class="pagination-item" href="{{ prev.url }}">Previous: {{ prev.title }}</a>
+       <a class="pagination-item" href="{{site.url }}{{ prev.url }}">Previous: {{ prev.title }}</a>
     {% else %}
       <span class="pagination-item disabled">Previous</span>
     {% endif %}
   </div>
   <div class="right">
     {% if next %}
-      <a class="pagination-item" href="{{ next.url }}">Next: {{ next.title }}</a>
+      <a class="pagination-item" href="{{site.url }}{{ next.url }}">Next: {{ next.title }}</a>
     {% else %}
       <span class="pagination-item disabled">Next</span>
     {% endif %}
