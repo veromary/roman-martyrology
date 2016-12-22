@@ -1088,7 +1088,7 @@ entryDate[355] = " 12/21/" + year
 entryContent[355] = " <h3>21 December</h3> <p> AT Calamina, the birthday of the blessed apostle Thomas, who preached the Gospel to the Parthians, the Medes, the Persians and Hyrcanians. Having finally penetrated into India, and instructed those nations in the Christian religion, he died transpierced <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/12-21.html\">&hellip; read more</a></p>"
 
 entryDate[356] = " 12/22/" + year
-entryContent[356] = " <h3>22 December</h3> <p> AT Rome, between the two bay trees on the Lavican road, the birthday of thirty holy martyrs, who were ajl on one day crownd with martyrdom, in the persecution of Diocletian.&mdash;In the same city, St. Flavian, ex-prefect, who, under Julian the Apostat <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/12-22.html\">&hellip; read more</a></p>"
+entryContent[356] = " <h3>22 December</h3> <p> AT Rome, between the two bay trees on the Lavican road, the birthday of thirty holy martyrs, who were all on one day crowned with martyrdom, in the persecution of Diocletian.&mdash;In the same city, St. Flavian, ex-prefect, who, under Julian the Apostat <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/12-22.html\">&hellip; read more</a></p>"
 
 entryDate[357] = " 12/23/" + year
 entryContent[357] = " <h3>23 December</h3> <p> AT Rome, the holy virgin Victoria, a martyr, in the persecution of the emperor Decius. She had been promised in marriage to a pagan named Eugene, but because she refused to marry him and to offer sacrifice to idols, and because by working many miracles <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/12-23.html\">&hellip; read more</a></p>"
