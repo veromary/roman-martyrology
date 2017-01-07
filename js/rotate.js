@@ -38,16 +38,16 @@ entryDate[5] = " 01/06/" + year
 entryContent[5] = " <h3>6 January</h3> <p> THE Epiphany of Our Lord.&mdash;In the diocese of Rheims, the martyrdom of St. Macra, virgin, who, in the persecution of Diocletian, was cast into the fire by order of the governor Rictiovarus. As she remained uninjured, she had her breasts cut off, wa <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/01-06.html\">&hellip; read more</a></p>"
 
 entryDate[6] = " 01/07/" + year
-entryContent[6] = " <h3>7 January</h3> <p> THE bringing back of the Child Jesus from Egypt. The same day, the birthday of blessed Lucian, a priest of the church of Antioch and martyr, who was distinguished for his learning and eloquence. He suffered at Nicomedia for the confession of Christ, i <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/01-07.html\">&hellip; read more</a></p>"
+entryContent[6] = " <h3>7 January</h3> <p> THE bringing back of the Child Jesus from Egypt.&mdash;The same day, the birthday of blessed Lucian, a priest of the church of Antioch and martyr, who was distinguished for his learning and eloquence. He suffered at Nicomedia for the confession of Christ, i <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/01-07.html\">&hellip; read more</a></p>"
 
 entryDate[7] = " 01/08/" + year
 entryContent[7] = " <h3>8 January</h3> <p> Lucian, who had come to France with St. Denis, not fearing, after the slaughter of his companions, to confess the name of Christ openly, received the same sentence of death.&mdash;Also, St. Eugenian, martyr.&mdash;In Lybia, the holy martyrs Theophilus, dea <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/01-08.html\">&hellip; read more</a></p>"
 
 entryDate[8] = " 01/09/" + year
-entryContent[8] = " <h3>9 January</h3> <p> AT Antioch, in the reign of Diocletian and Maximian, the birthday of the Saints Julian, martyr, and Basilissa, his virgin wife. Having lived in a state of virginity with her husband, she reached the end of her days in peace. But after the death by ﬁre of <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/01-09.html\">&hellip; read more</a></p>"
+entryContent[8] = " <h3>9 January</h3> <p> AT Antioch, in the reign of Diocletian and Maximian, the birthday of the Saints Julian, martyr, and Basilissa, his virgin wife. Having lived in a state of virginity with her husband, she reached the end of her days in peace. But after the death by fire of <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/01-09.html\">&hellip; read more</a></p>"
 
 entryDate[9] = " 01/10/" + year
-entryContent[9] = " <h3>10 January</h3> <p> IN Cyprus, blessed Nicanor, one of the ﬁrst seven deacons, a man of admirable faith and virtue, who was most gloriously crowned.&mdash;At Rome, pope St. Agatho, who terminated a life remarkable for sanctity and learning by a holy death.&mdash;At Bourges <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/01-10.html\">&hellip; read more</a></p>"
+entryContent[9] = " <h3>10 January</h3> <p> IN Cyprus, blessed Nicanor, one of the first seven deacons, a man of admirable faith and virtue, who was most gloriously crowned.&mdash;At Rome, pope St. Agatho, who terminated a life remarkable for sanctity and learning by a holy death.&mdash;At Bourges <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/01-10.html\">&hellip; read more</a></p>"
 
 entryDate[10] = " 01/11/" + year
 entryContent[10] = " <h3>11 January</h3> <p> AT Rome, the birthday of St. Hyginus, pope, who suffered a glorious martyrdom in the persecution of Antoninus.&mdash;In Africa, blessed Salvius, martyr, on whose birthday St. Augustine preached to the people of Carthage.&mdash;At Alexandria, the holy marty <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/01-11.html\">&hellip; read more</a></p>"
