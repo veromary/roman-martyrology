@@ -56,7 +56,7 @@ entryDate[11] = " 01/12/" + year
 entryContent[11] = " <h3>12 January</h3> <p> AT Rome, in the time of the emperor Alexander, St. Tatiana, martyr, who was torn with iron hooks and combs, thrown to the beasts and cast into the fire, but, having received no injury, was beheaded, and thus went to heaven.&mdash;In Achaia, St. Satyrus <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/01-12.html\">&hellip; read more</a></p>"
 
 entryDate[12] = " 01/13/" + year
-entryContent[12] = " <h3>13 January</h3> <p> THE Octave of the Epiphany of Our Lord.&mdash;At Rome, on the Lavican road, the crowning of forty holy so1diers,&mdash;a reward they merited by confessing the true faith, under the emperor Gallienus.&mdash;In Sardinia, St. Potitus, martyr, who, having <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/01-13.html\">&hellip; read more</a></p>"
+entryContent[12] = " <h3>13 January</h3> <p> THE Octave of the Epiphany of Our Lord.&mdash;At Rome, on the Lavican road, the crowning of forty holy soldiers, a reward they merited by confessing the true faith, under the emperor Gallienus.&mdash;In Sardinia, St. Potitus, martyr, who, having <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/01-13.html\">&hellip; read more</a></p>"
 
 entryDate[13] = " 01/14/" + year
 entryContent[13] = " <h3>14 January</h3> <p> ST. HILARY, bishop of Poitiers and confessor, who entered heaven on the thirteenth day of this month.&mdash;At Nola, in Campania, the birthday of St. Felix, priest, who (as is related by bishop St. Paulinus), after being subjected to torments by the persec <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/01-14.html\">&hellip; read more</a></p>"
