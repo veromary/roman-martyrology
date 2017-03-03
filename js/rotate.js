@@ -176,7 +176,7 @@ entryDate[51] = " 02/21/" + year
 entryContent[51] = " <h3>21 February</h3> <p> IN Sicily, in the reign of Diocletian, the birthday of seventy-nine holy martyrs, who deserved by various torments to receive an immortal crown for the confession of their faith.—At Adrumetum, in Africa, during the persecution of the Vandals, the holy ma <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/02-21.html\">&hellip; read more</a></p>"
 
 entryDate[52] = " 02/22/" + year
-entryContent[52] = " <h3>22 February</h3> <p> HE Chair of St. Peter at Antioch, where the disciples were first called Christians.&mdash;At Hierapolis, in Phrygia, blessed Papias, bishop of that city, who had been, with St. Polycarp, a disciple of St. John‘ in his old age.&mdash;At Salamis, in Cyprus <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/02-22.html\">&hellip; read more</a></p>"
+entryContent[52] = " <h3>22 February</h3> <p> THE Chair of St. Peter at Antioch, where the disciples were first called Christians.&mdash;At Hierapolis, in Phrygia, blessed Papias, bishop of that city, who had been, with St. Polycarp, a disciple of St. John‘ in his old age.&mdash;At Salamis, in Cyprus <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/02-22.html\">&hellip; read more</a></p>"
 
 entryDate[53] = " 02/23/" + year
 entryContent[53] = " <h3>23 February</h3> <p> <p>(In leap-year, the Vigil of St. Matthias is not announced today, because it is transferred to the 24th.) </p> <p> THE vigil of the apostle St. Matthias.&mdash;At Faenza, St. Peter Damian, Cardinal bishop of Ostia, and Doctor of the Church, celebrated fo <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/02-23.html\">&hellip; read more</a></p>"
