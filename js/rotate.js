@@ -533,7 +533,7 @@ entryDate[170] = " 06/19/" + year
 entryContent[170] = " <h3>19 June</h3> <p> AT Florence, St. Juliana Falconieri, virgin, foundress of the Sisters of the Order of the Servants of the Blessed Virgin Mary, who was placed among the holy virgins by the Sovereign Pontitf, Clement XII.&mdash;At Milan, the holy martyrs Gervasius and Prota <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/06-19.html\">&hellip; read more</a></p>"
 
 entryDate[171] = " 06/20/" + year
-entryContent[171] = " <h3>20 June</h3> <p> THE birthday of St. Silverius, pope and martyr. Anthimus, deposed by his predecessor Agapitus, he was banished to the isle of Pontia, by Belisarius, at the instigation of the wicked empress Theodora, and, consumed by many tribulations for the Catholic fait <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/06-20.html\">&hellip; read more</a></p>"
+entryContent[171] = " <h3>20 June</h3> <p> THE birthday of St. Silverius, pope and martyr. For refusing to reinstate the heretical bishop Anthimus, deposed by his predecessor Agapitus, he was banished to the isle of Pontia, by Belisarius, at the instigation of the wicked empress Theodora, and, <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/06-20.html\">&hellip; read more</a></p>"
 
 entryDate[172] = " 06/21/" + year
 entryContent[172] = " <h3>21 June</h3> <p> AT Rome, St. Aloysius Gonzaga, of the Society of Jesus, most renowned for his contempt of the princely dignity, and the innocence of his life.&mdash; Also, at Rome, St. Demetria, virgin, who was crowned with martyrdom under Julian the Apostate. &mdash;At S <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/06-21.html\">&hellip; read more</a></p>"
