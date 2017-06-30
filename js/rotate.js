@@ -122,7 +122,7 @@ entryDate[33] = " 02/03/" + year
 entryContent[33] = " <h3>3 February</h3> <p> AT Sebaste, in Armenia, in the time of the governor Agricolaus, the passion of St. Blasius, bishop and martyr, who after working many miracles, was scourged a long time, and suspended on a tree where he was lacerated with iron combs. He was then impriso <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/02-03.html\">&hellip; read more</a></p>"
 
 entryDate[34] = " 02/04/" + year
-entryContent[34] = " <h3>4 February</h3> <p> AT Florence, St. Andrew Corsini, bishop of Fiesoli, whose birthday is the 6th of January.&mdash;At Rome, St. Eutychius, who endured a glorious martrydom, and was buried in the cemetery of Callistus. Pope St. Damasus wrote an epitaph in verse for his tomb.& <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/02-04.html\">&hellip; read more</a></p>"
+entryContent[34] = " <h3>4 February</h3> <p> AT Florence, St. Andrew Corsini, bishop of Fiesoli, whose birthday is the 6th of January.&mdash;At Rome, St. Eutychius, who endured a glorious martrydom, and was buried in the cemetery of Callistus. Pope St. Damasus wrote an epitaph in verse for his tomb. <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/02-04.html\">&hellip; read more</a></p>"
 
 entryDate[35] = " 02/05/" + year
 entryContent[35] = " <h3>5 February</h3> <p> AT Catania, in Sicily, in the time of the emperor Decius and the judge Quinctian, the birthday of St. Agatha, virgin and martyr. After being buffeted, imprisoned, tortured, racked, dragged over pieces of earthenware and burning coals, and having her breast <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/02-05.html\">&hellip; read more</a></p>"
@@ -131,7 +131,7 @@ entryDate[36] = " 02/06/" + year
 entryContent[36] = " <h3>6 February</h3> <p> THE Festival of St. Titus, bishop and confessor.&mdash; At Caesarea, in Cappadocia, the birthday of St. Dorothy, virgin and martyr, who was stretched on the rack, then a long time scourged with boughs of the palm-tree, and finally condemned to capital puni <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/02-06.html\">&hellip; read more</a></p>"
 
 entryDate[37] = " 02/07/" + year
-entryContent[37] = " <h3>7 February</h3> <p> THE holy abbot Romuald, founder of the monks of Camaldoli, whose birthday is the 19th of June.&mdash; At London, in England, birthday of the blessed bishop Augulus, who terminated his career by martyrdom, and deserved to receive an eternal recompense.&m <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/02-07.html\">&hellip; read more</a></p>"
+entryContent[37] = " <h3>7 February</h3> <p> THE holy abbot Romuald, founder of the monks of Camaldoli, whose birthday is the 19th of June.&mdash; At London, in England, birthday of the blessed bishop Augulus, who terminated his career by martyrdom, and deserved to receive an eternal recompense. <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/02-07.html\">&hellip; read more</a></p>"
 
 entryDate[38] = " 02/08/" + year
 entryContent[38] = " <h3>8 February</h3> <p> ST. JOHN of Matha, confessor, founder of the Order of the Most Holy Trinity, for the redemption of captives, who reposed in the Lord on the 17th of December.&mdash;Also, St. Jerome Emiliani, confessor, founder of the Congregation of Somascha, who slept in <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/02-08.html\">&hellip; read more</a></p>"
@@ -299,7 +299,7 @@ entryDate[92] = " 04/02/" + year
 entryContent[92] = " <h3>2 April</h3> <p> ST. FRANCIS of Paula, founder of the Order of Minims. As he was renowned for virtues and miracles, he was inscribed among the Saints by Leo X.&mdash;At Caesarea, in Palestine, during the persecution of Galerius Maximian, the birthday of the martyr St. Amph <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/04-02.html\">&hellip; read more</a></p>"
 
 entryDate[93] = " 04/03/" + year
-entryContent[93] = " <h3>3 April</h3> <p> AT Taormina, in Sicily, the bishop St. Pancratius, who sealed, with a martyr’s blood, the gospel of Christ which the apostle St. Peter had sent him thither to preach.&mdash;At Tomis, in Scythia, the birthday of the holy martyrs Evagrius and Benignus.&mda <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/04-03.html\">&hellip; read more</a></p>"
+entryContent[93] = " <h3>3 April</h3> <p> AT Taormina, in Sicily, the bishop St. Pancratius, who sealed, with a martyr’s blood, the gospel of Christ which the apostle St. Peter had sent him thither to preach.&mdash;At Tomis, in Scythia, the birthday of the holy martyrs Evagrius and Benignus. <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/04-03.html\">&hellip; read more</a></p>"
 
 entryDate[94] = " 04/04/" + year
 entryContent[94] = " <h3>4 April</h3> <p> AT Seville, in Spain, St. Isidore, a bishop eminent for sanctity and learning, who shed lustre on his country by his zeal for the Catholic faith, and the observance of ecclesiastical discipline.&mdash;At Thessalonica, in the time of the emperor Maximian an <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/04-04.html\">&hellip; read more</a></p>"
@@ -362,7 +362,7 @@ entryDate[113] = " 04/23/" + year
 entryContent[113] = " <h3>23 April</h3> <p> THE birthday of St. George, whose illustrious martyrdom is honored by the Church of God among the combats of other crowned martyrs.&mdash;At Valence, in France, the holy martyrs Felix, priest, Fortunatus and Achilleus, deacons, who were sent there to preac <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/04-23.html\">&hellip; read more</a></p>"
 
 entryDate[114] = " 04/24/" + year
-entryContent[114] = " <h3>24 April</h3> <p> AT Sevis, in Switzerland, St. Fidelis of Sigmaringen, of the Order of Capuchin Minorites, who was sent thither to preach the Catholic faith. He was put to death by the heretics, and was placed among the holy martyrs by the Sovereign Pontiif, Benedict XIV.& <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/04-24.html\">&hellip; read more</a></p>"
+entryContent[114] = " <h3>24 April</h3> <p> AT Sevis, in Switzerland, St. Fidelis of Sigmaringen, of the Order of Capuchin Minorites, who was sent thither to preach the Catholic faith. He was put to death by the heretics, and was placed among the holy martyrs by the Sovereign Pontiif, Benedict XIV. <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/04-24.html\">&hellip; read more</a></p>"
 
 entryDate[115] = " 04/25/" + year
 entryContent[115] = " <h3>25 April</h3> <p> AT Alexandria, the birthday of blessed Mark, evangelist, disciple and interpreter of the apostle St. Peter. He wrote his gospel at the request of the faithful of Rome, and taking it with him, proceeded to Egypt and founded a church at Alexandria, where he <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/04-25.html\">&hellip; read more</a></p>"
@@ -563,7 +563,7 @@ entryDate[180] = " 06/29/" + year
 entryContent[180] = " <h3>29 June</h3> <p> AT Rome, the birthday of the holy apostles Peter and Paul, who suffered martyrdom on the same day, under the emperor Nero. Within the city the former was crucified with his head downwards, and buried in the Vatican, near the Triumphal way, where he is vene <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/06-29.html\">&hellip; read more</a></p>"
 
 entryDate[181] = " 06/30/" + year
-entryContent[181] = " <h3>30 June</h3> <p> THE commemoration of the holy apostle Paul.&mdash;At Limoges, in France, St. Martial, bishop, with two priests, Alpinian and Austriclinian, whose lives were distinguished for miracles.&mdash;The same day, the saints Caius, priest, and Leo, subdeacon.&mdash <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/06-30.html\">&hellip; read more</a></p>"
+entryContent[181] = " <h3>30 June</h3> <p> THE commemoration of the holy apostle Paul.&mdash;At Limoges, in France, St. Martial, bishop, with two priests, Alpinian and Austriclinian, whose lives were distinguished for miracles.&mdash;The same day, the saints Caius, priest, and Leo, subdeacon. <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/06-30.html\">&hellip; read more</a></p>"
 
 entryDate[182] = " 07/01/" + year
 entryContent[182] = " <h3>1 July</h3> <p> THE Octave of St. John the Baptist.&mdash;—Feast of the Most Precious Blood of Our Lord Jesus Christ.&mdash;On Mount Hor, the demise of St. Aaron, the first priest of the Levitical Order.&mdash;In England, the holy martyrs Julius and Aaron, who suffered <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/07-01.html\">&hellip; read more</a></p>"
@@ -626,10 +626,10 @@ entryDate[201] = " 07/20/" + year
 entryContent[201] = " <h3>20 July</h3> <p> THE festival of St. Jerome Emiliani, confessor, founder of the Congergation of Somascha. Gaining renown for many miracles during his life and after his death, he was inscribed among the beatified by Benedict XIV., and canonized by Clement XIII. &mdash;At A <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/07-20.html\">&hellip; read more</a></p>"
 
 entryDate[202] = " 07/21/" + year
-entryContent[202] = " <h3>21 July</h3> <p> AT Rome, the holy virgin Praxedes, who was brought up in all chastity and in the knowledge of the divine law. Assiduously attending to watching, prayer and fasting, she rested in Christ, and was buried near her sister Pudentiana, on the Salarian road.&mdas <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/07-21.html\">&hellip; read more</a></p>"
+entryContent[202] = " <h3>21 July</h3> <p> AT Rome, the holy virgin Praxedes, who was brought up in all chastity and in the knowledge of the divine law. Assiduously attending to watching, prayer and fasting, she rested in Christ, and was buried near her sister Pudentiana, on the Salarian road. <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/07-21.html\">&hellip; read more</a></p>"
 
 entryDate[203] = " 07/22/" + year
-entryContent[203] = " <h3>22 July</h3> <p> AT Marseilles, the birthday of St. Mary Magdalen, out of whom our Lord expelled seven demons, and who deserved to be the first to see the Saviour after He had risen from the dead.&mdash;At Philippi, St. Syntyches, mentioned by the blessed apostle Paul.&mda <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/07-22.html\">&hellip; read more</a></p>"
+entryContent[203] = " <h3>22 July</h3> <p> AT Marseilles, the birthday of St. Mary Magdalen, out of whom our Lord expelled seven demons, and who deserved to be the first to see the Saviour after He had risen from the dead.&mdash;At Philippi, St. Syntyches, mentioned by the blessed apostle Paul. <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/07-22.html\">&hellip; read more</a></p>"
 
 entryDate[204] = " 07/23/" + year
 entryContent[204] = " <h3>23 July</h3> <p> THE birthday of the holy bishop Apollinaris, who was consecrated at Rome by the apostle Peter, and sent to Ravenna, where he endured for the faith of Christ many different tribulations. He afterwards preached the Gospel in Emilia, where he converted many f <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/07-23.html\">&hellip; read more</a></p>"
@@ -1055,7 +1055,7 @@ entryDate[344] = " 12/10/" + year
 entryContent[344] = " <h3>10 December</h3> <p> AT Rome, pope St. Melchiades, who, having suffered much in the persecution of Maximian, rested in the Lord when peace was given to the Church.&mdash;The same day, Saints Carpophorus, priest, and Abundius, deacon, who became martyrs in the persecution o <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/12-10.html\">&hellip; read more</a></p>"
 
 entryDate[345] = " 12/11/" + year
-entryContent[345] = " <h3>11 December</h3> <p> AT Bonne, St. Damasus, pope and confessor, who condemned the heresiarch Apollinaris, and restored to his see Peter, bishop of Alexandria, who had been driven from it. He also discovered the bodies of many holy martyrs, and wrote verses in their honor.& <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/12-11.html\">&hellip; read more</a></p>"
+entryContent[345] = " <h3>11 December</h3> <p> AT Bonne, St. Damasus, pope and confessor, who condemned the heresiarch Apollinaris, and restored to his see Peter, bishop of Alexandria, who had been driven from it. He also discovered the bodies of many holy martyrs, and wrote verses in their honor. <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/12-11.html\">&hellip; read more</a></p>"
 
 entryDate[346] = " 12/12/" + year
 entryContent[346] = " <h3>12 December</h3> <p> AT Bonne, the holy martyr Synesius, who was ordained lector in the time of the blessed pope Xystus. Having converted many to Christ, he was accused before the emperor Aurelian, and being put to the sword, received the crown of martyrdom. &mdash;At Alex <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/12-12.html\">&hellip; read more</a></p>"
