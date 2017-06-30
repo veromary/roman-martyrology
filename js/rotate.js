@@ -566,7 +566,7 @@ entryDate[181] = " 06/30/" + year
 entryContent[181] = " <h3>30 June</h3> <p> THE commemoration of the holy apostle Paul.&mdash;At Limoges, in France, St. Martial, bishop, with two priests, Alpinian and Austriclinian, whose lives were distinguished for miracles.&mdash;The same day, the saints Caius, priest, and Leo, subdeacon. <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/06-30.html\">&hellip; read more</a></p>"
 
 entryDate[182] = " 07/01/" + year
-entryContent[182] = " <h3>1 July</h3> <p> THE Octave of St. John the Baptist.&mdash;—Feast of the Most Precious Blood of Our Lord Jesus Christ.&mdash;On Mount Hor, the demise of St. Aaron, the first priest of the Levitical Order.&mdash;In England, the holy martyrs Julius and Aaron, who suffered <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/07-01.html\">&hellip; read more</a></p>"
+entryContent[182] = " <h3>1 July</h3> <p> THE Octave of St. John the Baptist.&mdash;Feast of the Most Precious Blood of Our Lord Jesus Christ.&mdash;On Mount Hor, the demise of St. Aaron, the first priest of the Levitical Order.&mdash;In England, the holy martyrs Julius and Aaron, who suffered <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/07-01.html\">&hellip; read more</a></p>"
 
 entryDate[183] = " 07/02/" + year
 entryContent[183] = " <h3>2 July</h3> <p> THE Visitation of the Blessed Virgin Mary to Elizabeth.&mdash;At Rome, on the Aurelian road, the birthday of the holy martyrs Processus and Martinian, who were baptized by the blessed apostle Peter in the Mamertine prison. After being struck on the mouth, <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/07-02.html\">&hellip; read more</a></p>"
