@@ -41,7 +41,7 @@ entryDate[6] = " 01/07/" + year
 entryContent[6] = " <h3>7 January</h3> <p> THE bringing back of the Child Jesus from Egypt.&mdash;The same day, the birthday of blessed Lucian, a priest of the church of Antioch and martyr, who was distinguished for his learning and eloquence. He suffered at Nicomedia for the confession of Christ, i <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/01-07.html\">&hellip; read more</a></p>"
 
 entryDate[7] = " 01/08/" + year
-entryContent[7] = " <h3>8 January</h3> <p> Lucian, who had come to France with St. Denis, not fearing, after the slaughter of his companions, to confess the name of Christ openly, received the same sentence of death.&mdash;Also, St. Eugenian, martyr.&mdash;In Lybia, the holy martyrs Theophilus, dea <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/01-08.html\">&hellip; read more</a></p>"
+entryContent[7] = " <h3>8 January</h3> <p> At Beauvais, in France, the holy martyrs Lucian, priest, Maximian and Julian. The last two were killed with the sword by the persecutors, but blessed Lucian, who had come to France with St. Denis, not fearing, after the slaughter of his companions, to confess the name of Christ <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/01-08.html\">&hellip; read more</a></p>"
 
 entryDate[8] = " 01/09/" + year
 entryContent[8] = " <h3>9 January</h3> <p> AT Antioch, in the reign of Diocletian and Maximian, the birthday of the Saints Julian, martyr, and Basilissa, his virgin wife. Having lived in a state of virginity with her husband, she reached the end of her days in peace. But after the death by fire of <a href=\"http://www.brandt.id.au/roman-martyrology/martyrs/01-09.html\">&hellip; read more</a></p>"
