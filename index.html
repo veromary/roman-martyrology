@@ -34,7 +34,9 @@ Java Script Calendar is free without any limitations. Copyright © Eugene Vassil
  var monthname = 
  new Array ("January","February","March","April","May","June","July","August","September","October","November","December" );
  document.write("<a href='http://www.brandt.id.au/roman-martyrology/martyrs/");
- document.write(month + "-");
+ var monthplusone = month + 1;
+ if (monthplusone< 10) document.write("0" + monthplusone + "-");
+         else document.write(monthplusone + "-");
  if (date< 10) document.write("0" + date + ".html'>");
          else document.write(date + ".html'>");
  document.write(dayname[day] + ", ");
