@@ -33,12 +33,15 @@ Java Script Calendar is free without any limitations. Copyright © Eugene Vassil
  var dayname = new Array ("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday");
  var monthname = 
  new Array ("January","February","March","April","May","June","July","August","September","October","November","December" );
- document.write("");
+ document.write("<a href='http://www.brandt.id.au/roman-martyrology/martyrs/");
+ document.write(month + "-");
+ if (date< 10) document.write("0" + date + ".html'>");
+         else document.write(date + ".html'>");
  document.write(dayname[day] + ", ");
  document.write(monthname[month] + " ");
  if (date< 10) document.write("0" + date + ", ");
          else document.write(date + ", ");
- document.write(year + "    ");
+ document.write(year + "</a> ");
  // Easter
  if ((month == emonth) && (date == edate)) document.write("Easter Sunday (Western)   ");
  // January
