@@ -35,6 +35,7 @@ Java Script Calendar is free without any limitations. Copyright © Eugene Vassil
  new Array ("January","February","March","April","May","June","July","August","September","October","November","December" );
  document.write("<a href='http://www.brandt.id.au/roman-martyrology/martyrs/");
  var monthplusone = month + 1;
+ var dateplusone = date + 1;
  if (monthplusone< 10) document.write("0" + monthplusone + "-");
          else document.write(monthplusone + "-");
  if (date< 10) document.write("0" + date + ".html'>");
@@ -43,7 +44,11 @@ Java Script Calendar is free without any limitations. Copyright © Eugene Vassil
  document.write(monthname[month] + " ");
  if (date< 10) document.write("0" + date + ", ");
          else document.write(date + ", ");
- document.write(year + "</a> ");
+ document.write(year + "</a> or look ahead to <a href='");
+ if (monthplusone< 10) document.write("0" + monthplusone + "-");
+         else document.write(monthplusone + "-");
+ if (dateplusone< 10) document.write("0" + dateplusone + ".html'>");
+         else document.write(dateplusone + ".html'>Tomorrow</a>");
  // Easter
  if ((month == emonth) && (date == edate)) document.write("Easter Sunday (Western)   ");
  // January
