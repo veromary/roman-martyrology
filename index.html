@@ -33,12 +33,22 @@ Java Script Calendar is free without any limitations. Copyright © Eugene Vassil
  var dayname = new Array ("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday");
  var monthname = 
  new Array ("January","February","March","April","May","June","July","August","September","October","November","December" );
- document.write("");
+ document.write("<a href='martyrs/");
+ var monthplusone = month + 1;
+ var dateplusone = date + 1;
+ if (monthplusone< 10) document.write("0" + monthplusone + "-");
+         else document.write(monthplusone + "-");
+ if (date< 10) document.write("0" + date + ".html'>");
+         else document.write(date + ".html'>");
  document.write(dayname[day] + ", ");
  document.write(monthname[month] + " ");
  if (date< 10) document.write("0" + date + ", ");
          else document.write(date + ", ");
- document.write(year + "    ");
+ document.write(year + "</a> or look ahead to <a href='martyrs/");
+ if (monthplusone< 10) document.write("0" + monthplusone + "-");
+         else document.write(monthplusone + "-");
+ if (dateplusone< 10) document.write("0" + dateplusone + ".html'>");
+         else document.write(dateplusone + ".html'>Tomorrow</a>");
  // Easter
  if ((month == emonth) && (date == edate)) document.write("Easter Sunday (Western)   ");
  // January
