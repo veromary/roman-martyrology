@@ -3,7 +3,7 @@ name: Roman Martyrology
 author: Veronica Brandt
 #url: http://localhost:4000
 #url: http://www.brandt.id.au/roman-martyrology
-url: http://veromary.gitlab.io/roman-martyrology
+url: https://veromary.gitlab.io/roman-martyrology
 #baseurl: roman-martyrology/
 
 collections:
