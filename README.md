@@ -1,8 +1,8 @@
 # roman-martyrology
 
-[http://www.brandt.id.au/roman-martyrology/]
-
-I'm going from the 1916 edition from the internet archive:
+Migrating the project over to Gitlab, and changing the url over to a subdomain
+[https://roman-martyrology.brandt.id.au](https://roman-martyrology.brandt.id.au)
+Then need to update the js file!
 
 [https://archive.org/details/romanmartyrology00cathuoft]
 
