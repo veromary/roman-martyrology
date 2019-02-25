@@ -26,6 +26,6 @@ About
 If you would like to embed this script into your webpage:
 
 {% highlight html %}
-<script type="text/javascript" src="http://www.brandt.id.au/roman-martyrology/js/rotate.js"></script>
+<script type="text/javascript" src="https://roman-martyrology.brandt.id.au/js/rotate.js"></script>
 {% endhighlight %}
 
